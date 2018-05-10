@@ -1,0 +1,8 @@
+{
+    "bucket-1": {
+        "key-1": "value-1"
+    },
+    "bucket-2": {
+        "key-2": "value-2"
+    }
+}
